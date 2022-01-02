@@ -9,6 +9,8 @@
 1. '재고 추가' View에서 Stepper를 통해 각 과일의 수량을 변경할 수 있습니다. 변경된 재고량은 Label에 반영합니다.
 1. '재고 추가' View에서 '닫기' 버튼을 탭하면, '쥬스 주문' View로 이동 (Modal 적용)합니다.
 1. Auto Layout을 통해 여러 기기에서 사용이 가능합니다.
+   
+![Simulator-Screen-Recording-iPhone-11](https://user-images.githubusercontent.com/70856586/147887208-cb742d9a-cc39-405b-98c0-8e74e25dc399.gif)
 
 ### 그라운드 룰
    - 공식문서 읽기 : 매일 10시~12시
